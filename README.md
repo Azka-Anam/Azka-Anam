@@ -30,18 +30,18 @@ Building a solid foundation in automation and cloud practices.
   <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-f6f1eb?style=for-the-badge&logo=jenkins&logoColor=D24939&labelColor=b58d6b" height="40" />
   <img alt="Terraform" src="https://img.shields.io/badge/Terraform-f6f1eb?style=for-the-badge&logo=terraform&logoColor=623CE4&labelColor=b58d6b" height="40" />
 </p>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayeshactl&show_icons=true&locale=en&layout=compact" alt="ayeshactl" />
+
+### 📊 GitHub Stats & Top Languages
+
+<p align="center">
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Azka-Anam&show_icons=true&theme=default&hide_title=false" alt="GitHub Stats"/>
 </p>
 
-
----
-
-
-
-
-### 📈 GitHub Stats  
-![Azka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Azka-Anam&show_icons=true&title_color=b58d6b&icon_color=b58d6b&text_color=5a4633&bg_color=f6f1eb)
+<p align="center">
+  <!-- Top Languages Card -->
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Azka-Anam&show_icons=true&locale=en&layout=compact" alt="Azka-Anam Top Languages"/>
+</p>
 
 ---
 
@@ -49,22 +49,7 @@ Building a solid foundation in automation and cloud practices.
 ![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=Azka-Anam&theme=flat&title=Repositories,Stars,Commit,PullRequest)
 
 ---
-### 🛠️ My Progress
 
-<p align="center">
-  <b>Shell Scripting</b> <br>
-  <img src="https://progress-bar.dev/80/?title=Shell&color=b58d6b&suffix=%25" alt="Shell Scripts Progress"/>
-</p>
-
-<p align="center">
-  <b>Python</b> <br>
-  <img src="https://progress-bar.dev/70/?title=Python&color=306998&suffix=%25" alt="Python Progress"/>
-</p>
-
-<p align="center">
-  <b>Docker</b> <br>
-  <img src="https://progress-bar.dev/50/?title=Docker&color=2496ED&suffix=%25" alt="Docker Progress"/>
-</p>
 
 ### 💼 My Projects
 <p align="center">
