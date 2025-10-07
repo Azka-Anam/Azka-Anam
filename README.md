@@ -14,16 +14,32 @@ Building a solid foundation in automation and cloud practices.
 - 💬 Ask me about **Linux**, **Git**, or **writing clean scripts**  
 
 ---
-
-### 🛠️ Tools & Technologies  
+### 🛠️ Tools & Languages  
 
 <p align="center">
-  <img alt="Bash" src="https://img.shields.io/badge/Bash-b58d6b?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=f6f1eb" height="40" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-f6f1eb?style=for-the-badge&logo=python&logoColor=b58d6b&labelColor=b58d6b" height="40" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-f2e6d8?style=for-the-badge&logo=docker&logoColor=5a4633&labelColor=b58d6b" height="40" />
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-b58d6b?style=for-the-badge&logo=linux&logoColor=white&labelColor=f6f1eb" height="40" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-f6f1eb?style=for-the-badge&logo=git&logoColor=b58d6b&labelColor=b58d6b" height="40" />
+  <!-- Core Languages -->
+  <img alt="Bash" src="https://img.shields.io/badge/Bash-b58d6b?style=for-the-badge&logo=gnu-bash&logoColor=f6f1eb&labelColor=5a4633" height="45" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-f6f1eb?style=for-the-badge&logo=python&logoColor=306998&labelColor=b58d6b" height="45" />
+
+  <!-- DevOps Tools -->
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-f2e6d8?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=b58d6b" height="45" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-b58d6b?style=for-the-badge&logo=linux&logoColor=f6f1eb&labelColor=5a4633" height="45" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-f6f1eb?style=for-the-badge&logo=git&logoColor=F05032&labelColor=b58d6b" height="45" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-f6f1eb?style=for-the-badge&logo=kubernetes&logoColor=326CE5&labelColor=b58d6b" height="45" />
+  <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-f6f1eb?style=for-the-badge&logo=jenkins&logoColor=D24939&labelColor=b58d6b" height="45" />
+  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-f6f1eb?style=for-the-badge&logo=terraform&logoColor=623CE4&labelColor=b58d6b" height="45" />
 </p>
+
+---
+
+### 📊 Most Used Languages (Manual)
+<p align="center">
+  <img alt="Bash" src="https://img.shields.io/badge/Bash-60%25-b58d6b?style=for-the-badge&logo=gnu-bash&logoColor=f6f1eb&labelColor=5a4633" height="30" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-40%25-f6f1eb?style=for-the-badge&logo=python&logoColor=306998&labelColor=b58d6b" height="30" />
+</p>
+
+
+
 
 <p align="center">
   <b>DevOps Tools:</b>
