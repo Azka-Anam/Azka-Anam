@@ -1,3 +1,4 @@
+
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:b58d6b,100:f6f1eb&height=220&section=header&text=Azka%20Anam%20⚙️%20DevOps%20Learner&fontColor=5a4633&fontSize=45&fontAlignY=35&fontAlign=50&desc=Exploring%20Automation%20%7C%20Shell%20Scripting%20%7C%20Linux%20%7C%20Cloud%20Essentials&descAlignY=55&descAlign=50)
 
 <p align="center">
@@ -15,7 +16,7 @@ Building a solid foundation in automation and cloud practices.
 
 ---
 
-### 🛠️ Tools & Languages  
+### 🛠️ Tools & Technologies  
 
 <p align="center">
   <!-- Core Languages -->
@@ -40,6 +41,11 @@ Building a solid foundation in automation and cloud practices.
 
 ### 📈 GitHub Stats  
 ![Azka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Azka-Anam&show_icons=true&title_color=b58d6b&icon_color=b58d6b&text_color=5a4633&bg_color=f6f1eb)
+
+---
+
+### 🏆 GitHub Achievements  
+![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=Azka-Anam&theme=flat&title=Repositories,Stars,Commit,PullRequest)
 
 ---
 
