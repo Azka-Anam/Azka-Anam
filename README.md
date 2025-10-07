@@ -32,7 +32,55 @@ Building a solid foundation in automation and cloud practices.
 </p>
 
 ---
+### 🛠️ My Skills Progress
 
+<p align="center">
+  <img src="https://github.com/Azka-Anam/skill-badges/raw/main/shell-scripts.svg" alt="Shell Scripts Progress"/>
+  <img src="https://github.com/Azka-Anam/skill-badges/raw/main/python-projects.svg" alt="Python Progress"/>
+</p>
+
+
+name: Update Skill Badges
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:   # allows manual trigger
+
+jobs:
+  update-badges:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Create skill-badges folder
+        run: mkdir -p skill-badges
+
+      - name: Count Shell Scripts
+        run: |
+          SHELL_DONE=$(ls shell-script | wc -l)
+          SHELL_TOTAL=10  # change to your goal
+          SHELL_PERCENT=$(( SHELL_DONE * 100 / SHELL_TOTAL ))
+          # generate SVG badge
+          curl -o skill-badges/shell-scripts.svg "https://img.shields.io/badge/Shell%20Scripts-${SHELL_PERCENT}%25-brightgreen?style=for-the-badge"
+
+      - name: Count Python Projects
+        run: |
+          PYTHON_DONE=$(ls python-practice | wc -l)
+          PYTHON_TOTAL=10  # change to your goal
+          PYTHON_PERCENT=$(( PYTHON_DONE * 100 / PYTHON_TOTAL ))
+          # generate SVG badge
+          curl -o skill-badges/python-projects.svg "https://img.shields.io/badge/Python-${PYTHON_PERCENT}%25-blue?style=for-the-badge"
+
+      - name: Commit and push badges
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add skill-badges/*.svg
+          git commit -m "Update skill badges"
+          git push
 
 
 
