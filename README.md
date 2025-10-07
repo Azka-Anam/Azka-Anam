@@ -45,15 +45,33 @@ Building a solid foundation in automation and cloud practices.
 ![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=Azka-Anam&theme=flat&title=Repositories,Stars,Commit,PullRequest)
 
 ---
+### 🛠️ My Progress
+
+<p align="center">
+  <b>Shell Scripting</b> <br>
+  <img src="https://progress-bar.dev/80/?title=Shell&color=b58d6b&suffix=%25" alt="Shell Scripts Progress"/>
+</p>
+
+<p align="center">
+  <b>Python</b> <br>
+  <img src="https://progress-bar.dev/70/?title=Python&color=306998&suffix=%25" alt="Python Progress"/>
+</p>
+
+<p align="center">
+  <b>Docker</b> <br>
+  <img src="https://progress-bar.dev/50/?title=Docker&color=2496ED&suffix=%25" alt="Docker Progress"/>
+</p>
 
 ### 💼 My Projects
 <p align="center">
-  <a href="https://github.com/Azka-Anam/shell-scripts"><img src="https://img.shields.io/badge/Shell Scripts-b58d6b?style=for-the-badge&logo=gnu-bash&logoColor=f6f1eb"/></a>
-  <a href="https://github.com/Azka-Anam/python-projects"><img src="https://img.shields.io/badge/Python Projects-f6f1eb?style=for-the-badge&logo=python&logoColor=306998"/></a>
-  <a href="https://github.com/Azka-Anam/docker-projects"><img src="https://img.shields.io/badge/Docker Projects-f2e6d8?style=for-the-badge&logo=docker&logoColor=2496ED"/></a>
+  <a href="https://github.com/Azka-Anam/shell-script" target="_blank">
+    <img src="https://img.shields.io/badge/Shell%20Scripts-b58d6b?style=for-the-badge&logo=gnu-bash&logoColor=f6f1eb" alt="Shell Scripts"/>
+  </a>
+  <a href="https://github.com/Azka-Anam/python-practice" target="_blank">
+    <img src="https://img.shields.io/badge/Python%20Projects-f6f1eb?style=for-the-badge&logo=python&logoColor=306998" alt="Python Projects"/>
+  </a>
 </p>
 
----
 
 ### 📫 Contact me
 
