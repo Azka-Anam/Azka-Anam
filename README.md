@@ -57,10 +57,65 @@ Building a solid foundation in automation and cloud practices.
 
 ### 📫 Contact Me
 <p align="center">
-  <a href="mailto:azka.anam2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://https://www.linkedin.com/in/azka-anam-5209b3319"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Azka-Anam"><img src="https://img.shields.io/badge/GitHub-f6f1eb?style=for-the-badge&logo=github&logoColor=b58d6b"/></a>
+  <img src="https://img.icons8.com/ios-filled/100/000000/code.png" width="80"/>
 </p>
+
+<h1 align="center">Hi there, I'm Azka Anam 👋</h1>
+<p align="center">A DevOps & Shell Scripting enthusiast passionate about automation and clean code.</p>
+
+---
+
+<h2 align="center">💻 About Me</h2>
+<p align="center">
+  🌱 Currently learning Kubernetes & Docker<br>
+  🔭 Working on Shell scripting projects<br>
+  🤝 Open to collaboration on DevOps projects
+</p>
+
+---
+
+<h2 align="center">🛠️ Skills & Work Progress</h2>
+<p align="center">
+  <strong>Languages & Tools:</strong><br>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YAML-000000?style=for-the-badge&logo=yaml&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+<p align="center">
+  <strong>Progress:</strong><br>
+  <img src="https://progress-bar.dev/60/?title=Work%20Completed&width=300"/>
+</p>
+
+---
+
+<h2 align="center">📫 Connect with Me</h2>
+<p align="center">
+  <a href="mailto:azkaanam2005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-azkaanam2005@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/azka-anam-5209b3319">
+    <img src="https://img.shields.io/badge/LinkedIn-Azka_Anam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Azka-Anam">
+    <img src="https://img.shields.io/badge/GitHub-Azka_Anam-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<h2 align="center">📈 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Azka-Anam&show_icons=true&hide_title=true"/>
+</p>
+
+<p align="center">Made with 💛 and passion for clean code!</p>
+
+
+
 
 ---
 
