@@ -30,7 +30,11 @@ Building a solid foundation in automation and cloud practices.
   <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-f6f1eb?style=for-the-badge&logo=jenkins&logoColor=D24939&labelColor=b58d6b" height="40" />
   <img alt="Terraform" src="https://img.shields.io/badge/Terraform-f6f1eb?style=for-the-badge&logo=terraform&logoColor=623CE4&labelColor=b58d6b" height="40" />
 </p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayeshactl&show_icons=true&locale=en&layout=compact" alt="ayeshactl" />
+</p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayeshactl&show_icons=true&locale=en" alt="ayeshactl" /></p>
 ---
 ### 🛠️ My Skills Progress
 
