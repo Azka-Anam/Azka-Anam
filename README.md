@@ -34,7 +34,7 @@ Building a solid foundation in automation and cloud practices.
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayeshactl&show_icons=true&locale=en&layout=compact" alt="ayeshactl" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayeshactl&show_icons=true&locale=en" alt="ayeshactl" /></p>
+
 ---
 
 
