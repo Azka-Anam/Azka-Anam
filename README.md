@@ -1,9 +1,11 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=b58d6b&height=200&section=header&text=Azka%20Anam&fontColor=f6f1eb&fontSize=45)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:b58d6b,100:f6f1eb&height=220&section=header&text=Azka%20Anam%20⚙️%20DevOps%20Learner&fontColor=5a4633&fontSize=45&fontAlignY=35&fontAlign=50&desc=Exploring%20Automation%20%7C%20Shell%20Scripting%20%7C%20Linux%20%7C%20Cloud%20Essentials&descAlignY=55&descAlign=50)
+
 
 <p align="center">
-  🌸 <b>Hi there, I'm Azka!</b> 🤎<br>
-  A DevOps & Shell Scripting learner who loves clean designs, calm tones, and creative automation.
-</p>
+  💻 <b>Hey, I'm Azka Anam!</b> 🤎<br>
+Focused on DevOps fundamentals — from Linux and Shell scripting to CI/CD and containerization.  
+Building a solid foundation in automation and cloud practices.
+
 
 ---
 
@@ -11,7 +13,7 @@
 - 🌱 Currently learning **Kubernetes**, **Docker**, and **Shell scripting**  
 - 💡 Interested in **automation**, **minimal systems**, and **DevOps pipelines**  
 - 💬 Ask me about **Linux**, **Git**, or **writing clean scripts**  
-- 🎨 I like everything in beige and brown ✨  
+
 
 ---
 
@@ -33,4 +35,5 @@
 
 ---
 
-<p align="center">🌸 Made with calm energy & beige love 🤎</p>
+<p align="center">💻 Built with curiosity, discipline & clean energy ⚡</p>
+
