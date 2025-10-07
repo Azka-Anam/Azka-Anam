@@ -57,14 +57,6 @@ Building a solid foundation in automation and cloud practices.
 
 ### 📫 Contact me
 
-<h2 align="center">💻 About Me</h2>
-<p align="center">
-  🌱 Currently learning Kubernetes & Docker<br>
-  🔭 Working on Shell scripting projects<br>
-  🤝 Open to collaboration on DevOps projects
-</p>
-
----
 
 <h2 align="center">🛠️ Skills & Work Progress</h2>
 <p align="center">
