@@ -44,11 +44,13 @@ Building a solid foundation in automation and cloud practices.
 </p>
 
 ---
+### 🏆 GitHub Achievements
 
-### 🏆 GitHub Achievements  
-![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=Azka-Anam&theme=flat&title=Repositories,Stars,Commit,PullRequest)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Azka-Anam&margin-w=10&margin-h=10&theme=gruvbox&no-frame=true" alt="Azka-Anam GitHub Trophies"/>
+</p>
 
----
+
 
 
 ### 💼 My Projects
