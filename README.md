@@ -30,20 +30,18 @@ Building a solid foundation in automation and cloud practices.
   <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-f6f1eb?style=for-the-badge&logo=jenkins&logoColor=D24939&labelColor=b58d6b" height="40" />
   <img alt="Terraform" src="https://img.shields.io/badge/Terraform-f6f1eb?style=for-the-badge&logo=terraform&logoColor=623CE4&labelColor=b58d6b" height="40" />
 </p>
-
-### 📊 GitHub Stats & Top Languages
+### 📊 GitHub Stats
 
 <p align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Azka-Anam&show_icons=true&theme=default&hide_title=false" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Azka-Anam&show_icons=true&theme=default" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <!-- Top Languages Card -->
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Azka-Anam&show_icons=true&locale=en&layout=compact" alt="Azka-Anam Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Azka-Anam&show_icons=true&locale=en&layout=compact" alt="Azka-Anam Top Languages"/>
 </p>
 
----
+<br clear="all"/>
+
 ### 🏆 GitHub Achievements
 
 <p align="center">
