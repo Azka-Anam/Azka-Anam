@@ -55,15 +55,7 @@ Building a solid foundation in automation and cloud practices.
 
 ---
 
-### 📫 Contact Me
-<p align="center">
-  <img src="https://img.icons8.com/ios-filled/100/000000/code.png" width="80"/>
-</p>
-
-<h1 align="center">Hi there, I'm Azka Anam 👋</h1>
-<p align="center">A DevOps & Shell Scripting enthusiast passionate about automation and clean code.</p>
-
----
+### 📫 Contact me
 
 <h2 align="center">💻 About Me</h2>
 <p align="center">
