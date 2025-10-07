@@ -33,21 +33,8 @@ Building a solid foundation in automation and cloud practices.
 
 ---
 
-### 📊 My Work Status
-<p align="center">
-  <b>Bash:</b> ![Bash](https://img.shields.io/badge/Bash-80%25-b58d6b?style=for-the-badge&logo=gnu-bash&logoColor=f6f1eb&labelColor=5a4633)  
-  <b>Python:</b> ![Python](https://img.shields.io/badge/Python-70%25-f6f1eb?style=for-the-badge&logo=python&logoColor=306998&labelColor=b58d6b)  
-  <b>Docker:</b> ![Docker](https://img.shields.io/badge/Docker-60%25-f2e6d8?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=b58d6b)  
-  <b>Linux:</b> ![Linux](https://img.shields.io/badge/Linux-75%25-b58d6b?style=for-the-badge&logo=linux&logoColor=f6f1eb&labelColor=5a4633)  
-  <b>Git:</b> ![Git](https://img.shields.io/badge/Git-70%25-f6f1eb?style=for-the-badge&logo=git&logoColor=F05032&labelColor=b58d6b)  
-</p>
 
----
 
-### 📊 Most Used Languages  
-![Azka's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Azka-Anam&layout=compact&theme=tokyonight&langs_count=6)
-
----
 
 ### 📈 GitHub Stats  
 ![Azka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Azka-Anam&show_icons=true&title_color=b58d6b&icon_color=b58d6b&text_color=5a4633&bg_color=f6f1eb)
